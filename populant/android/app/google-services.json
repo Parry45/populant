@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835283457682",
+    "firebase_url": "https://populant-eb7c9.firebaseio.com",
+    "project_id": "populant-eb7c9",
+    "storage_bucket": "populant-eb7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835283457682:android:342dd1687af923db38f84b",
+        "android_client_info": {
+          "package_name": "com.example.populant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835283457682-3el9obamhgdmjdn78kosopib4a3uriqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoppI0--S0c1nHkpcaiWFY3AX7opi3Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835283457682-3el9obamhgdmjdn78kosopib4a3uriqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
